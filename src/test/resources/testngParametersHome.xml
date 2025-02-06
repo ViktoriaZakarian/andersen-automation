@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite">
+    <test name="Test1">
+        <parameter name="email" value="zakarianviktoria@gmail.com"/>
+        <parameter name="password" value="Vikintosh_708"/>
+        <classes>
+            <class name="by.ViktoriaZakarian.parameters.ParameterLoginForm"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <parameter name="email" value="zakarian.viktoria@yandex.by"/>
+        <parameter name="password" value="qwer1234"/>
+        <classes>
+            <class name="by.ViktoriaZakarian.parameters.ParameterLoginForm"/>
+        </classes>
+    </test>
+    <test name="Test3">
+        <parameter name="email" value="swaps-onyx0x@icloud.com"/>
+        <parameter name="password" value="qazwsxedc"/>
+        <classes>
+            <class name="by.ViktoriaZakarian.parameters.ParameterLoginForm"/>
+        </classes>
+    </test>
+</suite>
+
